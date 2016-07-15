@@ -1,0 +1,2 @@
+# thai
+game for child
