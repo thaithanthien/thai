@@ -1,2 +1,4 @@
-# thai
-game for child
+# Thai
+Game for child
+
+Funny and enjoy
